@@ -1,5 +1,6 @@
-![Dino](dino.gif)
-
+<p align="center">
+  <img src="dino.gif" alt="Dino GIF" />
+</p>
 
 ---
 
