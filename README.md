@@ -1,4 +1,7 @@
 # Hey there :wave:
 
-![Demo Preview](dino.gif)
+<p align="center">
+  <img src="dino.gif" alt="Demo GIF" />
+</p>
+
 
