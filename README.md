@@ -12,4 +12,4 @@ Let's make the world a better place, one dataset at a time! 😎🚀
 
 ---
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saail289&theme=dracula&exclude=HTML
+![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saail289&theme=dracula)
