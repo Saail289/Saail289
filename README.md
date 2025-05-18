@@ -12,5 +12,5 @@ Let's make the world a better place, one dataset at a time! 😎🚀
 
 ---
 
-![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saail289&theme=dracula)
-![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saail289&theme=dracula&exclude={exclude})
+![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saail289&theme=dracula) ![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saail289&theme=dracula&exclude={exclude})
+
